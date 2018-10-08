@@ -721,6 +721,5 @@ int main(int argc,char *argv[])
 	close(sd);
 	return 0;
 }
-// Server: Bye ! You Cracked Me :) :) 
-// Created By Rashid, Amir, Pranjal, Sagar
+
 
